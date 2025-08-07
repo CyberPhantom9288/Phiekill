@@ -20,7 +20,7 @@ A powerful multi-layered phishing and malicious URL detection tool built using P
 
    **Clone the repository**:
    ```bash
-   git clone https://github.com/KushalRaval/Phiekill.git
+   git clone https://github.com/CyberPhantom9288/Phiekill.git
    cd Phiekill
    pip install -r requirements.txt
    python3 phiekill.py
