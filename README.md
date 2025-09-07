@@ -1,4 +1,4 @@
-# 🛡️ Phiekill — Advanced URL Threat Detection System
+# 🛡️ Phiekill — Advanced Phishing URL Threat Detection System
 
 Phiekill is a **rule-based phishing URL detection tool** designed to identify suspicious and potentially malicious links.
 It analyzes URLs based on multiple heuristic features such as domain structure, suspicious TLDs, phishing-related keywords, URL shorteners, and more, to calculate a **risk score (0–100)** and classify links as:
