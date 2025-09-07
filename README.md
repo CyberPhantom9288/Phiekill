@@ -33,7 +33,7 @@ It analyzes URLs based on multiple heuristic features such as domain structure, 
 Clone the repository and install required dependencies:
 
 ```bash
-git clone https://github.com/your-username/Phiekill.git
+git clone https://github.com/CyberPhantom9288/Phiekill.git
 cd Phiekill
 pip install -r requirements.txt
 ```
