@@ -36,6 +36,7 @@ Clone the repository and install required dependencies:
 git clone https://github.com/CyberPhantom9288/Phiekill.git
 cd Phiekill
 pip install tldextract
+python3 Phiekill.py
 ```
 
 
