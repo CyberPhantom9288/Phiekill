@@ -38,13 +38,6 @@ cd Phiekill
 pip install -r requirements.txt
 ```
 
-### Requirements
-
-* Python 3.7+
-* Dependencies:
-
-  * `tldextract`
-
 You can install manually with:
 
 ```bash
@@ -81,56 +74,4 @@ python3 Phiekill.py https://phishingsite.com -q
 
 ---
 
-## 📝 Example Output
 
-```
-============================================================
-URL ANALYSIS REPORT
-============================================================
-URL: http://paypal.verify-login.secure-update.tk
-Risk Score: 85/100
-Classification: Likely Phishing
-
-Feature Analysis:
-  - HTTPS: No
-  - Domain: secure-update.tk
-  - Subdomains: paypal.verify-login
-  - Subdomain depth: 2
-  - Contains IP: No
-  - TLD: tk
-  - Suspicious TLD: Yes
-  - Special chars: 6
-  - Digit ratio: 0.000
-  - Contains bait: Yes
-  - URL shortener: No
-
-Risk Factors:
-  - Uses HTTP instead of HTTPS
-  - Suspicious TLD: tk
-  - High number of special characters (6)
-  - Contains known phishing bait keywords
-============================================================
-```
-
----
-
-## 📊 Classification Thresholds
-
-* **0–29** → ✅ Likely Legit
-* **30–69** → ⚠️ Suspicious
-* **70–100** → 🚨 Likely Phishing
-
----
-
-## 🛠️ Roadmap / Possible Improvements
-
-* [ ] Export results to **JSON/CSV**
-* [ ] Add **machine learning classifier** for higher accuracy
-* [ ] Integrate with **threat intelligence feeds**
-* [ ] Build a **web-based UI**
-
----
-
-## 👤 Author
-
-Created by **CyberPhantom9288**
