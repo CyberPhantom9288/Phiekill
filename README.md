@@ -35,14 +35,9 @@ Clone the repository and install required dependencies:
 ```bash
 git clone https://github.com/CyberPhantom9288/Phiekill.git
 cd Phiekill
-pip install -r requirements.txt
-```
-
-You can install manually with:
-
-```bash
 pip install tldextract
 ```
+
 
 ---
 
