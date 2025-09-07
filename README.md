@@ -75,3 +75,9 @@ python3 Phiekill.py https://phishingsite.com -q
 ---
 
 
+## ⚠️ Disclaimer
+
+This tool is for **educational and research purposes only**.
+The author does not condone malicious use, and misuse may violate laws.
+The creator is **not responsible** for any damages or consequences.
+Use responsibly, ethically, and within the law.
